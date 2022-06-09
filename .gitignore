@@ -1,0 +1,5 @@
+ec2_deploy/cdk.out
+ec2_deploy/ec2_deploy/__pycache__
+ec2_deploy/ec2_deploy/__init__.py
+ec2_deploy/cdk.context.json
+ec2_deploy/cdk.json
